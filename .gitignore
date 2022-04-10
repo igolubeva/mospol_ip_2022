@@ -1,0 +1,12 @@
+.idea
+*.pyc
+local_settings.py
+/.project
+collected_static/
+node_modules/
+.DS_Store
+env
+webpack-stats.json
+static/dist/
+devserver.local.config.js
+docker-compose.local.yml
